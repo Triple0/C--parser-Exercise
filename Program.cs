@@ -11,7 +11,6 @@ namespace C__parser
             Console.WriteLine("Instruction: Enter 1 for program to output your operations to screen and 0 not to output, please! NOTE - Only use option 1 if file content is not large!");
             Console.WriteLine("");
             Console.WriteLine("Enter your choice, please: ");
-            Console.WriteLine("");
             string displayOptionChoice = Console.ReadLine();
 
             if (displayOptionChoice == "0")
@@ -24,10 +23,12 @@ namespace C__parser
                 Console.WriteLine("");
                 ReplaceOperation(filename);
                 Console.WriteLine(File.ReadAllText("filename.txt"));
+                Console.WriteLine("");
             }
             else
             {
                 Console.WriteLine($"Error! Option {displayOptionChoice} selected does not exist!");
+                Console.WriteLine("");
             }
         }
 
@@ -65,15 +66,14 @@ namespace C__parser
                 Console.WriteLine("*                   Select 3 to terminate/exit                             *");
                 Console.WriteLine("****************************************************************************");
                 Console.WriteLine("Welcome. Enter an option, please: ");
-                string filename = "filename.txt";
-                string option = Console.ReadLine();  
-
+                string option = Console.ReadLine(); 
+                string filename = ""; 
 
                 switch (option)
                 {
                     case "1":
                         Console.WriteLine("Enter your filename, please: ");
-                        //filename = Console.ReadLine();
+                        filename = Console.ReadLine();
                         break;
                     case "2":
                         displayOptions(filename);
