@@ -1,0 +1,11 @@
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\bin\Debug\netcoreapp3.1\C#-parser.exe
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\bin\Debug\netcoreapp3.1\C#-parser.deps.json
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\bin\Debug\netcoreapp3.1\C#-parser.runtimeconfig.json
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\bin\Debug\netcoreapp3.1\C#-parser.runtimeconfig.dev.json
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\bin\Debug\netcoreapp3.1\C#-parser.dll
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\bin\Debug\netcoreapp3.1\C#-parser.pdb
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\obj\Debug\netcoreapp3.1\C#-parser.csprojAssemblyReference.cache
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\obj\Debug\netcoreapp3.1\C#-parser.AssemblyInfoInputs.cache
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\obj\Debug\netcoreapp3.1\C#-parser.AssemblyInfo.cs
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\obj\Debug\netcoreapp3.1\C#-parser.dll
+C:\Users\Olalekan\Documents\TechCareer\Assignment\C#-parser\obj\Debug\netcoreapp3.1\C#-parser.pdb
